@@ -1,0 +1,26 @@
+.bottom {
+	padding-top: 50px;
+	position: relative;
+	/*margin-top:150px;*/
+	top: 120px;
+	width:100%;height:255px;
+	/*background:#963;*/
+}
+.bottom-title{
+	width: 120px;height: 100px;
+	font-size: 30px;
+	font-family: "微软雅黑";
+	line-height: 100px;
+	color: #50505A;
+	margin: 0 auto;
+}
+.bottom-content{
+	display: block;
+	list-style: none;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.bottom-content li{
+	width: 163px;
+	display: inline-block;
+}
