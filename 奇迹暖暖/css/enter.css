@@ -1,0 +1,114 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+a {
+	text-decoration: none;
+}
+.toppic {
+	width: 1920px;
+	height: 560px;
+	background-image: url("../img/enter/top.jpg");
+	position: relative;
+}
+.bottompic {
+	width: 1920px;
+	height: 400px;
+	background-image: url("../img/enter/bottom.jpg");
+	position: relative;
+}
+.topppic .logopic {
+	width: 187px;
+	height: 72px;
+}
+ .logopic img {
+ 	position: absolute;
+	left: 356px;
+	top: 30px;
+ }
+ .enterpic {
+ 	width: 178px;
+	height: 55px;
+ 	position: absolute;
+ 	top: 30px;
+ 	right: 350px;
+ 	background-image: url("../img/enter/spr.png");
+ 	border-image-repeat: no-repeat;
+ 	background-position: -1px -216px;
+ 	display: block;
+ }
+ .enterpic p {
+	text-align: center;
+	font-size: 24px;
+	color: #808fbb;
+	font-weight: bold;
+	line-height: 50px;
+ }
+ .bottompic .banner {
+ 	width: 448px;
+ 	height: 213px;
+ 	position: absolute;
+ 	bottom: 88px;
+ 	right: 356px;
+ 	background-image: url("../img/enter/spr.png");
+	background-position: -1px -1px;
+ }
+ .codepic {
+ 	width: 153px;
+ 	height: 153px;
+ 	float: left;
+ 	margin: 27px;
+ 	background-image: url("../img/enter/topcode.png");
+ 	margin: 32px 0 0 32px;
+ }
+ .download1 {
+ 	width: 196px;
+	height: 68px;
+	float: left;
+	margin-top: 30px;
+ 	background-image: url("../img/enter/spr.png");
+ 	background-position: -199px -305px;
+ 	margin: 32px 0 0 30px;
+ }
+ .download1 p {
+ 	display: block;
+	width: 124px;
+	padding: 6px 0 0 72px;
+	height: 62px;
+	font-size: 22px;
+	line-height: 1.2;
+	color: #fff;
+ }
+.download2 {
+	width: 196px;
+	height: 68px;
+	float: left;
+	background-image: url("../img/enter/spr.png");
+	background-repeat: no-repeat;
+	background-position: -1px -305px;
+	margin: 16px 0 0 30px;
+}
+.download2 p {
+	display: block;
+	width: 124px;
+	padding-left: 72px;
+	height: 100%;
+	font-size: 26px;
+	line-height: 68px;
+	color: #fff;
+}
+.footer {
+	width: 100%;
+	height: 131px;
+	background-color: #000;
+	padding-top: 30px;
+}
+.footer p{
+	text-align: center;
+	line-height: 1.7;
+	font-size: 14px;
+	color: #fff;
+}
+.footer a {
+	color: #fff;
+}
